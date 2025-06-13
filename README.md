@@ -13,5 +13,3 @@ The Book Search Engine is a web application that allows users to search for book
 - **Styling**: CSS
 - **Deployment**: Heroku 
 
-# Deployment
-https://book-search-shs-d08fe895e1d3.herokuapp.com/
